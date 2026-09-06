@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/8xJ_-rKenSs?feature=share)
 
 **ThreatCheckerBot** is an automated Threat Intelligence Telegram Bot designed to streamline Indicators of Compromise (IoC) analysis. It queries popular threat scan engines, aggregates security telemetry into a unified report, and leverages powerful Large Language Models (LLMs) via the **OpenRouter API** to provide an intelligent, human-readable **Security Verdict**.
 
