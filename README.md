@@ -81,3 +81,25 @@ Open your terminal or command prompt and execute:
 ```bash
 python startup_script.py
 ```
+
+Let the script download all the necessary project files to your computer.
+
+### 3. Fill the `vars.env` file with your API Keys
+Open the `vars.env` file with any text editor of your choice and replace all `insert_your_api_key_here` with your own API Keys:
+
+<p align="center">
+<img width="920" height="376" alt="image" src="https://github.com/user-attachments/assets/ba510222-90af-489c-8778-73c8986923b7" />
+</p>
+
+### 4. Re-run the `startup_script.py` file
+Open your terminal or command prompt and execute:
+
+```bash
+python startup_script.py
+```
+
+The script will check all the files and then start building the conteinerized app:
+<p align="center">
+<img width="786" height="241" alt="image" src="https://github.com/user-attachments/assets/87342813-27be-4919-bb5e-637b0d9ce68d" />
+</p>
+
