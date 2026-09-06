@@ -99,7 +99,7 @@ Open your terminal or command prompt and execute:
 python startup_script.py
 ```
 
-The script will check all the files and then start building the conteinerized app:
+The script will check all the files and then start building the containerized app:
 <p align="center">
 <img width="786" height="241" alt="image" src="https://github.com/user-attachments/assets/87342813-27be-4919-bb5e-637b0d9ce68d" />
 </p>
